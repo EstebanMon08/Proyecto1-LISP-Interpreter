@@ -2,7 +2,7 @@ import org.junit.Test;
 import static org.junit.Assert.*;
 import java.util.*;
 
-public class LispInterpreterTest {
+public class PruebasUnitarias {
 
     @Test
     public void testLexerTokenize() {
