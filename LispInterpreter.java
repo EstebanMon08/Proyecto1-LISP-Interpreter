@@ -16,7 +16,7 @@ public class LispInterpreter {
         Map<String, Object> env = new HashMap<>();
         
         while (true) {
-            System.out.print("lisp> ");
+            System.out.print("Codigo Lisp: ");
             String code = scanner.nextLine();
             if (code.equals("exit")) break;
             
